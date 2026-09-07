@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 * 🤖 AI Engineer building **production-grade LLM and agentic AI systems**
-* 🧠 Experienced in **RAG, Multi-Agent Systems, LLMOps, and AI Infrastructure**
+* 🧠 Experienced in **RAG, Multi-Agent Systems and LLMOps**
 * 🔧 Working with **LangGraph, LangChain, MCP, Qdrant, FastAPI, and GCP**
 * 🎓 Pursuing an **Executive Diploma in Machine Learning & AI at IIIT Bangalore**
 * 💬 Ask me about **Agentic AI, RAG, LLMs & AI Systems**
